@@ -54,3 +54,7 @@ we can also use other jupyter docker image provided by Jupyter Project in the do
     ```
     pip install pandas numpy
     ```
+
+# References
+1. https://towardsdatascience.com/how-to-run-jupyter-notebook-on-docker-7c9748ed209f
+2. https://ploomber.io/blog/notebook-to-docker/
